@@ -515,4 +515,3 @@ and with wonder.
 *"Every ending quietly prepares the next beginning."*
 
 </div>
-````
