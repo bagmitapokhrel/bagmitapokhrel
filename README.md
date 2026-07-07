@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Bagmita+Pokhrel;Full-Stack+Developer+in+Progress;Python+%7C+Django+%7C+JavaScript;Building+Ideas+Into+Reality+🚀" />
 </p>
 
-<h3 align="center">✨ Turning Coffee ☕ into Code & Ideas into Reality ✨</h3>
+
 
 ---
 
