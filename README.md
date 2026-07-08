@@ -88,12 +88,9 @@ Occupation  :: Student
 
 Discipline  :: Bachelor in Information Management
 
-Current Age :: XX
-
 Status      :: Forever Learning
 
-Location    :: Somewhere Between Curiosity
-               and Understanding
+Location    :: Somewhere Between Curiosity and Understanding
 ```
 
 ---
@@ -243,9 +240,9 @@ Title       :: Yet Unknown
 
 Status      :: Waiting...
 
-Estimated Arrival ::
+Estimated Arrival :: Whenever curiosity decides.
 
-Whenever curiosity decides.
+
 ```
 
 ---
