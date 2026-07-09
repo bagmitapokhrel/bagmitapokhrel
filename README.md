@@ -254,8 +254,6 @@
 
 ## github analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=bagmitapokhrel&show_icons=true&theme=transparent&title_color=A855F7&icon_color=C084FC&text_color=94A3B8&border_color=7C3AED&border_radius=12&hide_border=false" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagmitapokhrel&layout=compact&theme=transparent&title_color=A855F7&text_color=94A3B8&border_color=7C3AED&border_radius=12&hide_border=false" width="49%" />
 
 <br><br>
 
