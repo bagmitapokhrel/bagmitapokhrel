@@ -54,7 +54,7 @@
 
 </div>
 
-<table width="100%">
+<table align="center" width="100%">
 <tr>
 <td width="55" align="center" valign="top">
 
@@ -163,7 +163,7 @@
 
 </div>
 
-<table width="100%">
+<table align="center" width="100%">
 <tr>
 <td width="50%" valign="top">
 <img src="https://placehold.co/600x300/0D0821/A855F7?text=Project+One&font=roboto" width="100%" />
@@ -254,8 +254,8 @@
 
 ## github analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=bagmitapokhrel&show_icons=true&theme=transparent&title_color=A855F7&icon_color=C084FC&text_color=94A3B8&border_color=7C3AED&border_radius=12&hide_border=false&bg_color=00000000" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagmitapokhrel&layout=compact&theme=transparent&title_color=A855F7&text_color=94A3B8&border_color=7C3AED&border_radius=12&hide_border=false&bg_color=00000000" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=bagmitapokhrel&show_icons=true&theme=transparent&title_color=A855F7&icon_color=C084FC&text_color=94A3B8&border_color=7C3AED&border_radius=12&hide_border=false" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagmitapokhrel&layout=compact&theme=transparent&title_color=A855F7&text_color=94A3B8&border_color=7C3AED&border_radius=12&hide_border=false" width="49%" />
 
 <br><br>
 
@@ -263,7 +263,7 @@
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bagmitapokhrel&theme=react-dark&bg_color=00000000&color=A855F7&line=C084FC&point=FFFFFF&area=true&area_color=7C3AED&hide_border=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bagmitapokhrel&theme=react-dark&color=A855F7&line=C084FC&point=FFFFFF&area=true&area_color=7C3AED&hide_border=true" width="95%" />
 
 <br><br>
 
@@ -295,7 +295,7 @@
 
 </div>
 
-<table width="100%">
+<table align="center" width="100%">
 <tr>
 <td width="25%" align="center">
 <img src="https://img.icons8.com/fluency/40/prize.png" width="34" />
@@ -305,7 +305,7 @@
 <sub>started the journey</sub>
 </td>
 <td width="25%" align="center">
-<img src="https://img.icons8.com/fluency/40/coding.png" width="34" />
+<img src="https://img.icons8.com/fluency/40/rocket.png" width="34" />
 <br><br>
 <b>First Deployment</b>
 <br>
@@ -336,7 +336,7 @@
 
 </div>
 
-<table width="90%" align="center">
+<table align="center" width="90%">
 <tr>
 <td width="15%" align="center"><img src="https://img.shields.io/badge/NOW-A855F7?style=for-the-badge&labelColor=050816" /></td>
 <td>Full-stack web development & modern JavaScript frameworks</td>
