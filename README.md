@@ -265,7 +265,6 @@
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=bagmitapokhrel&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4" width="90%" />
 
 </div>
 
