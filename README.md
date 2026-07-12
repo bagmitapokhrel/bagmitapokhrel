@@ -48,7 +48,7 @@
 
 <div align="center">
 
-## about
+## About
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,100:050816&height=1&width=1" height="1" />
 
