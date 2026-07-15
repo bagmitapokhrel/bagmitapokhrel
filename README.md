@@ -16,10 +16,9 @@
 
 <br><br>
 
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/EMAIL-0D0821?style=for-the-badge&logo=gmail&logoColor=C084FC" /></a>
-<a href="https://linkedin.com/in/bagmitapokhrel"><img src="https://img.shields.io/badge/LINKEDIN-0D0821?style=for-the-badge&logo=linkedin&logoColor=C084FC" /></a>
-<a href="https://instagram.com/bagmitapokhrel"><img src="https://img.shields.io/badge/INSTAGRAM-0D0821?style=for-the-badge&logo=instagram&logoColor=C084FC" /></a>
-<a href="https://x.com/bagmitapokhrel"><img src="https://img.shields.io/badge/X-0D0821?style=for-the-badge&logo=x&logoColor=C084FC" /></a>
+<a href="mailto:bagmitapokhrel@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0D0821?style=for-the-badge&logo=gmail&logoColor=C084FC" /></a>
+<a href="https://linkedin.com/in/bagmita-pokhrel"><img src="https://img.shields.io/badge/LINKEDIN-0D0821?style=for-the-badge&logo=linkedin&logoColor=C084FC" /></a>
+<a href="https://github.com/bagmitapokhrel"><img src="https://img.shields.io/badge/GITHUB-0D0821?style=for-the-badge&logo=github&logoColor=C084FC" /></a>
 
 </div>
 
@@ -166,81 +165,42 @@
 <table align="center" width="100%">
 <tr>
 <td width="50%" valign="top">
-<img src="https://placehold.co/600x300/0D0821/A855F7?text=Project+One&font=roboto" width="100%" />
+<img src="https://placehold.co/600x300/0D0821/A855F7?text=Quantum+Universe+Portfolio&font=roboto" width="100%" />
 
-**Project Name One**
+**Quantum Universe Portfolio**
 <br>
-<sub>A short, elegant description of what this project does and the problem it solves.</sub>
+<sub>An advanced, cyberpunk-inspired developer terminal featuring animated custom reactive command lines and live secure data transmission panels.</sub>
 
 <br><br>
 
 ![React](https://img.shields.io/badge/React-050816?style=flat-square&logo=react&logoColor=C084FC)
-![Node](https://img.shields.io/badge/Node.js-050816?style=flat-square&logo=nodedotjs&logoColor=C084FC)
+![Next.js](https://img.shields.io/badge/Next.js-050816?style=flat-square&logo=nextdotjs&logoColor=C084FC)
 ![Status](https://img.shields.io/badge/Active-050816?style=flat-square&labelColor=050816&color=A855F7)
 
 <br>
 
-[![Repo](https://img.shields.io/badge/Repository-0D0821?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bagmitapokhrel)
-[![Live](https://img.shields.io/badge/Live_Demo-0D0821?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Repo](https://img.shields.io/badge/Repository-0D0821?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bagmitapokhrel/quantum-portfolio)
+[![Live](https://img.shields.io/badge/Live_Demo-0D0821?style=for-the-badge&logo=vercel&logoColor=white)](https://quantum-portfolio-jade.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
-<img src="https://placehold.co/600x300/0D0821/7C3AED?text=Project+Two&font=roboto" width="100%" />
+<img src="https://placehold.co/600x300/0D0821/7C3AED?text=Django+E-Commerce+System&font=roboto" width="100%" />
 
-**Project Name Two**
+**Secure E-Commerce Platform**
 <br>
-<sub>A short, elegant description of what this project does and the problem it solves.</sub>
-
-<br><br>
-
-![Next.js](https://img.shields.io/badge/Next.js-050816?style=flat-square&logo=nextdotjs&logoColor=C084FC)
-![MongoDB](https://img.shields.io/badge/MongoDB-050816?style=flat-square&logo=mongodb&logoColor=C084FC)
-![Status](https://img.shields.io/badge/In_Progress-050816?style=flat-square&labelColor=050816&color=7C3AED)
-
-<br>
-
-[![Repo](https://img.shields.io/badge/Repository-0D0821?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bagmitapokhrel)
-[![Live](https://img.shields.io/badge/Live_Demo-0D0821?style=for-the-badge&logo=vercel&logoColor=white)](#)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<img src="https://placehold.co/600x300/0D0821/C084FC?text=Project+Three&font=roboto" width="100%" />
-
-**Project Name Three**
-<br>
-<sub>A short, elegant description of what this project does and the problem it solves.</sub>
+<sub>A full-featured digital marketplace built with Django. Handles catalog browsing, dynamic shopping carts, and a session-based checkout pipeline.</sub>
 
 <br><br>
 
 ![Python](https://img.shields.io/badge/Python-050816?style=flat-square&logo=python&logoColor=C084FC)
 ![Django](https://img.shields.io/badge/Django-050816?style=flat-square&logo=django&logoColor=C084FC)
-![Status](https://img.shields.io/badge/Completed-050816?style=flat-square&labelColor=050816&color=C084FC)
+![SQLite](https://img.shields.io/badge/SQLite-050816?style=flat-square&logo=sqlite&logoColor=C084FC)
+![Status](https://img.shields.io/badge/Completed-050816?style=flat-square&labelColor=050816&color=7C3AED)
 
 <br>
 
-[![Repo](https://img.shields.io/badge/Repository-0D0821?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bagmitapokhrel)
-[![Live](https://img.shields.io/badge/Live_Demo-0D0821?style=for-the-badge&logo=vercel&logoColor=white)](#)
-
-</td>
-<td width="50%" valign="top">
-<img src="https://placehold.co/600x300/0D0821/A855F7?text=Project+Four&font=roboto" width="100%" />
-
-**Project Name Four**
-<br>
-<sub>A short, elegant description of what this project does and the problem it solves.</sub>
-
-<br><br>
-
-![TypeScript](https://img.shields.io/badge/TypeScript-050816?style=flat-square&logo=typescript&logoColor=C084FC)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-050816?style=flat-square&logo=postgresql&logoColor=C084FC)
-![Status](https://img.shields.io/badge/Active-050816?style=flat-square&labelColor=050816&color=A855F7)
-
-<br>
-
-[![Repo](https://img.shields.io/badge/Repository-0D0821?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bagmitapokhrel)
-[![Live](https://img.shields.io/badge/Live_Demo-0D0821?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Repo](https://img.shields.io/badge/Repository-0D0821?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bagmitapokhrel/E-Commerce-System)
+[![Live](https://img.shields.io/badge/Live_Demo-0D0821?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/bagmitapokhrel)
 
 </td>
 </tr>
@@ -362,8 +322,8 @@
 
 <br><br>
 
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/EMAIL-0D0821?style=for-the-badge&logo=gmail&logoColor=C084FC" /></a>
-<a href="https://linkedin.com/in/bagmitapokhrel"><img src="https://img.shields.io/badge/LINKEDIN-0D0821?style=for-the-badge&logo=linkedin&logoColor=C084FC" /></a>
+<a href="mailto:bagmitapokhrel@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0D0821?style=for-the-badge&logo=gmail&logoColor=C084FC" /></a>
+<a href="https://linkedin.com/in/bagmita-pokhrel"><img src="https://img.shields.io/badge/LINKEDIN-0D0821?style=for-the-badge&logo=linkedin&logoColor=C084FC" /></a>
 <a href="https://github.com/bagmitapokhrel"><img src="https://img.shields.io/badge/GITHUB-0D0821?style=for-the-badge&logo=github&logoColor=C084FC" /></a>
 
 <br><br>
