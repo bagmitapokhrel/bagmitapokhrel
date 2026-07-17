@@ -120,38 +120,65 @@
 
 ## tech stack
 
-<br>
+<a name="stack"></a>
 
-**languages**
-<br>
-<img src="https://skillicons.dev/icons?i=py,js,ts,java,cpp,html,css&theme=dark" />
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=html" width="45"/><br>HTML
+</td>
 
-<br><br>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=css" width="45"/><br>CSS
+</td>
 
-**frontend**
-<br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,figma,vue&theme=dark" />
+<td align="center">
+<img src="https://skillicons.dev/icons?i=js" width="45"/><br>JavaScript
+</td>
 
-<br><br>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nodejs" width="45"/><br>Node
+</td>
 
-**backend**
-<br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask&theme=dark" />
+<td align="center">
+<img src="https://skillicons.dev/icons?i=express" width="45"/><br>Express
+</td>
 
-<br><br>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql" width="45"/><br>MySQL
+</td>
+</tr>
 
-**databases**
-<br>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase&theme=dark" />
+<tr>
 
-<br><br>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python" width="45"/><br>Python
+</td>
 
-**tools**
-<br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman,notion,figma&theme=dark" />
+<td align="center">
+<img src="https://skillicons.dev/icons?i=django" width="45"/><br>Django
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" width="45"/><br>Git
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=github" width="45"/><br>GitHub
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vscode" width="45"/><br>VS Code
+</td>
+
+<td align="center">
+☕<br>Coffee
+</td>
+
+</tr>
+</table>
 
 </div>
-
 <br>
 
 <a name="projects"></a>
